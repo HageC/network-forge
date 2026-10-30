@@ -6,3 +6,4 @@ apps/web/playwright-report/
 .env
 *.exe
 .agents
+docs
